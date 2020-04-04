@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/geraldovilela/doeSangue/issues"
   },
-  "homepage": "https://github.com/geraldovilela/doeSangue#readme"
+  "homepage": "https://github.com/geraldovilela/doeSangue#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
